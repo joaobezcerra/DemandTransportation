@@ -29,3 +29,5 @@ Results include:
 - Graphs comparing actual and predicted values
 - Analysis of forecast errors
 
+<img width="1790" height="490" alt="image" src="https://github.com/user-attachments/assets/2a27aa06-271e-4276-9e40-daa7b8ac4365" />
+Avaliação do Modelo: MAE: 31.49; MSE: 1816.00; R²: 0.37
